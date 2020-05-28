@@ -1,4 +1,5 @@
 net\javaguides\springboot\SpringbootCrudRestfulWebservicesApplication.class
+net\javaguides\springboot\handleconst\HandleConstError.class
 net\javaguides\springboot\entity\User.class
 net\javaguides\springboot\exception\ErrorDetails.class
 net\javaguides\springboot\repository\UserRepository.class
